@@ -9,15 +9,15 @@ Let's practice using the W3C's HTML Validator!
 1. Correct invalid HTML to be valid
 
 ## Correct Invalid HTML To Be Valid
-
+ 
 In this lab we'll use the W3C Validator to make our invalid HTML happy!
 You might need to change how you work this problem depending on your 
 work environment. Either way you'll learn to fix invalid HTML.
-
+ 
 ### Tasks for LearnIDE Environment Users
-
+ 
 1. Click the "OPEN IDE" button
-
+ 
 ### Tasks for Local Environment Users
 
 1. Fork this repository.
